@@ -1,0 +1,2 @@
+G:\Unity\EXPERIEMENTS\new ECS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Unity\EXPERIEMENTS\new ECS\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
